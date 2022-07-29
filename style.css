@@ -1,0 +1,25 @@
+.main {
+  margin-top: 150px;
+  text-align: center;
+}
+.box {
+  background-color: #7a86b6;
+  padding: 30px;
+  border-radius: 25px;
+  webkit-box-shadow: -2px 11px 21px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -2px 11px 21px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -2px 11px 21px 0px rgba(0, 0, 0, 0.75);
+}
+#button{
+    background-color: #C8B6E2;
+    border: none;
+    outline: none;
+    font-weight: 400;
+}
+#button:focus{
+    border: #7a86b6;
+}
+#value{
+    padding: 0 20px;
+    border-radius: 25%;
+}
